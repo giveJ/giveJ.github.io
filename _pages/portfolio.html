@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-description: 지금까지 유지보수했던 웹사이트를 모아놓은 곳입니다.
+description: 지금까지 개발 및 유지 보수했던 웹사이트를 모아놓은 곳입니다.
 permalink: portfolio
 visible: true
 ---
@@ -20,7 +20,9 @@ visible: true
     </div>
   </div>
   <div id="{{ identifier }}" class="hyde lightbox" onclick="history.back()">
-    <img src="/assets/images/portfolio/{{ item.image }}" alt="{{ item.image | split: '.' | first }}" onclick="event.stopPropagation()" />
+    <a href="{{ item.custom_link }}" target="_blank">
+      <img src="/assets/images/portfolio/{{ item.image }}" alt="{{ item.image | split: '.' | first }}" onclick="event.stopPropagation()" />
+    </a>
   </div>
   {% endfor %}
 </div>
