@@ -1,11 +1,10 @@
-title: Hyde
+title: JeongJu Ahn
 description: >-
-  Build your own portfolio <br>
-  with Hyde.
-url: "https://chemistryx.me"
-github: ChemistryX
-email: changeme@chemistryx.me
-google_analytics: <YOUR UA TOKEN>
+  AHN JEONG JU
+url: "https://givej.github.io"
+github: giveJ
+email: anjungju09@gmail.com
+google_analytics: <anjungju09>
 
 exclude: [README.md, Gemfile, Gemfile.lock]
 
