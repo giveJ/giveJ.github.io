@@ -1,22 +1,24 @@
 ---
-title: 인트라넷 - 비밀번호 비공개 기능
-description: 사원목록 비밀번호 비공개 추가 구현
-image: intranet_pw2.PNG
-date: 2023-07-17
+title: 맘보아카데미 - 랜딩페이지 제작
+description: 반응형 웹 랜딩페이지 제작
+image: mambo_landing.PNG
+date: 2023-08-07
 ---
-<img src="/assets/images/projects/intranet_pw.png">
+
 <br>
 <!-- 페이지 보러가기 -->
-<a href="https://www.mambogroupware.com/openMemberList2.do" style="border: 2px solid #724CF9; border-radius: 30px;padding: 10px 20px;"><b>▶ 페이지 보러가기</b></a><br/><br/>
+<a href="https://www.mambo-academy.com/landing/barista" style="border: 2px solid #724CF9; border-radius: 30px;padding: 10px 20px;"><b>▶ 페이지 보러가기</b></a><br/><br/>
 
 <!-- 글 내용 -->
-기존 전체 공개였던 멤버 비밀번호를 현재 로그인된 사용자를 파악하여<br/>
-본인만 확인 가능 하도록 구현하였고 비밀번호 찾기 기능도 추가하였습니다.<br/><br/>
+반응형 웹페이지로 랜딩페이지를 제작하였습니다.<br/>
+타이머, 랜덤 숫자 함수, 바텀시트, 지점 전화번호 연결 등 JS 기능을 추가했습니다.<br/><br/>
 <!-- 구현기능 -->
 <b>💡 구현기능</b><br/>
 <ul>
-    <li>비밀번호 비공개 기능 구현 </li>
-    <li>비밀번호 찾기 기능 구현 </li>
+    <li>반응형 웹 페이지 제작 </li>
+    <li>마감 시간 타이머 함수 구현 </li>
+    <li>n명이 보고 있어요! : 랜덤 숫자 함수 구현 </li>
+    <li>바텀시트 구현 </li>
 </ul>
 <br/>
 
