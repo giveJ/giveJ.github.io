@@ -1,7 +1,7 @@
 ---
 title: 수강생 앱 - 수강후기
 description: 수강후기 메뉴 구현
-image: app_review.png
+image: app_review.PNG
 date: 2023-03-14
 ---
 <br>

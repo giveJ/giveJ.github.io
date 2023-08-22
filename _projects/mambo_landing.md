@@ -1,7 +1,7 @@
 ---
 title: 맘보아카데미 - 랜딩페이지 제작
 description: 반응형 웹 랜딩페이지 제작
-image: mambo_landing.PNG
+image: mambo_landing.png
 date: 2023-08-07
 ---
 

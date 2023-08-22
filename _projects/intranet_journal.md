@@ -1,7 +1,7 @@
 ---
 title: 인트라넷 - 국비상담일지
 description: 수강생 상담일지 기능 구현
-image: intranet_journal.PNG
+image: intranet_journal.png
 date: 2023-08-14
 ---
 <img src="/assets/images/projects/intranet_journal2.png">

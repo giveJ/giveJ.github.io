@@ -1,7 +1,7 @@
 ---
 title: 인트라넷 - 비밀번호 비공개 기능
 description: 사원목록 비밀번호 비공개 추가 구현
-image: intranet_pw2.PNG
+image: intranet_pw2.png
 date: 2023-07-17
 ---
 <img src="/assets/images/projects/intranet_pw.png">
