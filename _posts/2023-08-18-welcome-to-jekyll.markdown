@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "티스토리 블로그"
 date:   2023-08-18 16:00:55 +0900
 categories: jekyll update
 ---
