@@ -118,6 +118,7 @@ categories: jekyll update
 3. 플레이스토어 재 업로드
 
 <br/>
+<h3 style="color: #454545; text-align: center;background-color: #edeaea">⏰ 2023.07.01 이슈 해결</h3>
 <hr/>
 <h2>🩹 이슈 해결</h2>
 
