@@ -2,9 +2,7 @@
 
 # Hyde
 
-[Jekyll](https://https://jekyllrb.com/)로 만들어진 개인 블로그 / 포트폴리오입니다.
-
-실제 데모는 [이곳](https://chemistryx.me/)에서 보실 수 있습니다.
+데모 [이곳](https://chemistryx.me/)
 
 ## 당부의 말씀
 
