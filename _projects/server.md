@@ -2,7 +2,7 @@
 title: 서버 관리
 description: 서버 유지 보수 및 최적화 작업, 점검, 보안
 image: mambo_landing.png
-date: 2023-03
+date: 2023-03-08
 ---
 
 <br>

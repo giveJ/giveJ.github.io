@@ -2,7 +2,7 @@
 title: 맘보아카데미 웹 사이트 (PC, MO)
 description: 웹 사이트 개발, 배포 및 유지 보수, 서버 유지 보수
 image: mambo_landing.png
-date: 2023-03
+date: 2023-03-08
 ---
 
 <br>

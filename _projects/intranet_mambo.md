@@ -2,7 +2,7 @@
 title: 인트라넷-MAMBO
 description: 기능 개발, 배포 및 유지 보수, 서버 유지 보수
 image: intranet_oneday.PNG
-date: 2023-04-15
+date: 2023-03-08
 ---
 <img src="/assets/images/projects/intranet_oneday-2.PNG">
 <br>

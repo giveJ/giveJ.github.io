@@ -28,6 +28,6 @@ date: 2024-04-01
     <li>Java, Spring, Spring Boot, Java Script, Rest API, AJAX, BootStrap</li>
     <li><b>OS:</b> Windows, Linux</li>
     <li><b>DB:</b> MySQL</li>
-    <li><b>Tool :</b> Eclipse, Heidi SQL, DBeaver</li>
+    <li><b>Tool :</b> Eclipse, Heidi SQL, DBeaver, MobaXterm</li>
 </ul>
 <br/>

@@ -2,7 +2,7 @@
 title: 하이브리드 앱
 description: 관리자 사이트 연동 및 유지 보수
 image: app_review.PNG
-date: 2023-03
+date: 2023-03-08
 ---
 <br>
 <!-- 페이지 보러가기 -->
