@@ -1,24 +1,34 @@
-- title: 맘보바리스타제과제빵학원
-  description: 웹 사이트
-  image: mambo-academy.PNG
-  custom_link : https://www.mambo-academy.com/
-
-- title: 한국기술교육협회
-  description: 웹 사이트
-  image: kbc-association.PNG
-  custom_link : https://kbc-association.com/
-
-- title: LIONME
-  description: 웹 사이트
-  image: lionme.PNG
-  custom_link : https://lionme.co.kr/
-
-- title: 인트라넷
-  description: 웹 사이트
+- title: 인트라넷-MAMBO
+  description: 개발, 유지 보수, 서버구축
   image: intranet.PNG
   custom_link : https://www.mambogroupware.com/
 
-- title: 맘보아카데미 수강생어플
-  description: 하이브리드 앱
+- title: 인트라넷-LIONME
+  description: DB 설계, 개발, 유지 보수, 서버구축
+  image: intranet.PNG
+  custom_link : https://www.lionmegroupware.com/
+
+- title: 학원 수강생 어플
+  description: 하이브리드 앱 유지 보수
   image: app.PNG
   custom_link : https://www.mambo-academy.com/customer_app
+
+- title: 웹사이트-맘보바리스타제과제빵학원(PC, MO)
+  description: 웹 사이트 개발, 배포 및 유지 보수, 서버구축
+  image: mambo-academy.PNG
+  custom_link : https://www.mambo-academy.com/
+
+- title: 웹사이트-한국기술교육협회(PC,MO)
+  description: 웹 사이트 개발, 배포 및 유지 보수, 서버구축
+  image: kbc-association.PNG
+  custom_link : https://kbc-association.com/
+
+- title: 웹사이트-LIONME (PC,MO)
+  description: 웹 사이트 개발, 배포 및 유지 보수, 서버구축
+  image: lionme.PNG
+  custom_link : https://lionme.co.kr/
+
+- title: 웹사이트-관리자 페이지
+  description: 개발, 유지 보수
+  image: intranet.PNG
+  custom_link : https://www.mambo-academy.com/adm
