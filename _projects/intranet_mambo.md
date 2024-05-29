@@ -1,13 +1,16 @@
 ---
 title: 인트라넷-MAMBO
 description: 기능 개발, 배포 및 유지 보수, 서버 유지 보수
-image: intranet_oneday.PNG
+image: intranet-mambo-main.PNG
 date: 2023-03-08
 ---
 <img src="/assets/images/projects/intranet_oneday-2.PNG">
+<img src="/assets/images/projects/mambo-intranet1.jpg">
+<img src="/assets/images/projects/mambo-intranet2.jpg">
+<img src="/assets/images/projects/mambo-intranet3.jpg">
 <br>
 <!-- 페이지 보러가기 -->
-<a href="https://www.mambogroupware.com/openOneScheduleManagerList.do" style="border: 2px solid #724CF9; border-radius: 30px;padding: 10px 20px;"><b>▶ 페이지 보러가기</b></a><br/><br/>
+<a href="https://www.mambogroupware.com" style="border: 2px solid #724CF9; border-radius: 30px;padding: 10px 20px;"><b>▶ 페이지 보러가기</b></a><br/><br/>
 
 <!-- 글 내용 -->
 개발 인원 : 1인 (기여도 80%) <br/><br/>

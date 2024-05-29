@@ -1,7 +1,7 @@
 ---
 title: 관리자 페이지
 description: 웹 사이트 개발, 배포 및 유지 보수, 서버 유지 보수
-image: mambo_landing.png
+image: site-adm-main.PNG
 date: 2023-03-08
 ---
 

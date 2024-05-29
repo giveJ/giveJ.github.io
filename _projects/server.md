@@ -1,7 +1,7 @@
 ---
 title: 서버 관리
 description: 서버 유지 보수 및 최적화 작업, 점검, 보안
-image: mambo_landing.png
+image: server.PNG
 date: 2023-03-08
 ---
 
@@ -10,7 +10,7 @@ date: 2023-03-08
 <a href="https://www.mambo-academy.com/" style="border: 2px solid #724CF9; border-radius: 30px;padding: 10px 20px;"><b>▶ 페이지 보러가기</b></a><br/><br/>
 
 <!-- 글 내용 -->
-개발 인원 : 1인 (기여도 95%) <br/><br/>
+개발 인원 : 2인 (기여도 90%) <br/><br/>
 <!-- 구현기능 -->
 <b>💡 업무 내용</b><br/>
 <ul>
